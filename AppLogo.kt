@@ -31,7 +31,7 @@ import org.jetbrains.skia.Image as SkiaImage
 import java.util.Base64
 
 /**
-Để ảnh png vào ui/src/jvmMain/resources/
+ui/src/jvmMain/resources/
 - The player mark as a vector, in its own colours: the same five paths as Android's
 - `res/drawable/ic_logo.xml`, for the places that have no Android resources (the desktop's window
 - icon and its sign in pane). Drawn with `Image`, never `Icon`, which would tint it flat.
